@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**aditya-info/aditya-info** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior AI/ML Engineer** based in Austin, TX  
+Building production-grade machine learning, deep learning, and Generative AI systems across AWS, Azure, and GCP.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Work On
+
+- **Generative AI** — RAG pipelines, LLM fine-tuning (LoRA/QLoRA), agentic workflows with LangGraph
+- **MLOps** — end-to-end pipelines, model monitoring, drift detection, CI/CD for ML
+- **Machine Learning** — classification, forecasting, anomaly detection, recommendation systems
+- **Cloud** — AWS SageMaker, Azure ML, GCP Vertex AI
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [ml-monitoring-mlflow](https://github.com/aditya-info/ml-monitoring-mlflow) | ML training pipeline with experiment tracking and production drift detection | MLflow, Scikit-learn, SciPy |
+| [rag-pipeline-faiss](https://github.com/aditya-info/rag-pipeline-faiss) | RAG pipeline over healthcare + financial knowledge base | LangChain, FAISS, Flan-T5 |
+| [lora-finetuning-peft](https://github.com/aditya-info/lora-finetuning-peft) | LLM fine-tuning with LoRA for clinical + financial risk classification | PEFT, DistilBERT, Hugging Face |
+| [langgraph-risk-agent](https://github.com/aditya-info/langgraph-risk-agent) | Agentic AI workflow with stateful graph, tool orchestration, conditional routing | LangGraph, LangChain, Flan-T5 |
+
+---
+
+## 🛠️ Tech Stack
+
+**AI/ML**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Generative AI**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+*EAD – Green Card | Authorized to work for any U.S. employer without sponsorship*
