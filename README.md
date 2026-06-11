@@ -18,10 +18,10 @@ Building production-grade machine learning, deep learning, and Generative AI sys
 
 | Project | Description | Stack |
 |---|---|---|
-| [ml-monitoring-mlflow](https://github.com/aditya-info/ml-monitoring-mlflow) | ML training pipeline with experiment tracking and production drift detection | MLflow, Scikit-learn, SciPy |
-| [rag-pipeline-faiss](https://github.com/aditya-info/rag-pipeline-faiss) | RAG pipeline over healthcare + financial knowledge base | LangChain, FAISS, Flan-T5 |
-| [lora-finetuning-peft](https://github.com/aditya-info/lora-finetuning-peft) | LLM fine-tuning with LoRA for clinical + financial risk classification | PEFT, DistilBERT, Hugging Face |
-| [langgraph-risk-agent](https://github.com/aditya-info/langgraph-risk-agent) | Agentic AI workflow with stateful graph, tool orchestration, conditional routing | LangGraph, LangChain, Flan-T5 |
+| [mlflow-monitoring](https://github.com/aditya-info/mlflow-monitoring) | ML training pipeline with experiment tracking and production drift detection | MLflow, Scikit-learn, SciPy |
+| [rag-pipeline](https://github.com/aditya-info/rag-pipeline) | RAG pipeline over healthcare + financial knowledge base | LangChain, FAISS, Flan-T5 |
+| [lora-finetuning](https://github.com/aditya-info/lora-finetuning) | LLM fine-tuning with LoRA for clinical + financial risk classification | PEFT, DistilBERT, Hugging Face |
+| [langgraph-agent](https://github.com/aditya-info/langgraph-agent) | Agentic AI workflow with stateful graph, tool orchestration, conditional routing | LangGraph, LangChain, Flan-T5 |
 
 ---
 
@@ -40,6 +40,7 @@ Building production-grade machine learning, deep learning, and Generative AI sys
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
@@ -47,7 +48,7 @@ Building production-grade machine learning, deep learning, and Generative AI sys
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-k-info/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-k-info)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aditya.aiinfo@gmail.com)
 
 ---
